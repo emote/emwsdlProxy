@@ -2,13 +2,13 @@
     "author": "Emotive generated SOAP proxy",
     "name": "SOAPProxy",
     "description": "SOAP proxy",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "homepage": "http://www.emotive.com",
     "dependencies": {
-        "emproxy"   : "~1.0.13",
-        "emsoap"    : "~1.0.11",
-        "emutils"   : "~1.0.10",
-        "xml2js"    : "~0.2.2"
+        "emproxy": "1.0.14",
+        "emsoap": "1.0.12",
+        "emutils": "1.0.11",
+        "xml2js": "~0.2.2"
     },
     "devDependencies": {},
     "optionalDependencies": {},
